@@ -1,0 +1,6 @@
+{
+  "name": "Order & Call Center Analytics Dashboard",
+  "description": "Comprehensive order list and call center tele-sales dashboard with order tracking, call dispositions, audio recordings, and transcript inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
